@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/nav_article_view"
+        android:icon="@drawable/ic_action_article"
+        android:title="Articles" />
+    <item
+        android:id="@+id/nav_best_sellers"
+        android:icon="@drawable/ic_action_book"
+        android:title="Best Sellers List" />
+</menu>
